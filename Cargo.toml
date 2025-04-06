@@ -15,7 +15,7 @@ ignore = { version = "0.4.23", default-features = false }
 inference-gateway-sdk = { version = "0.9.1-rc.1", default-features = false }
 log = { version = "0.4.26", default-features = false }
 octocrab = { version = "0.43.0", default-features = false, features = ["default-client", "rustls", "rustls-ring"] }
-openssl = { version = "0.10.71", default-features = false, features = ["vendored"] }
+openssl = { version = "0.10.72", default-features = false, features = ["vendored"] }
 serde = { version = "1.0.219", default-features = false, features = ["derive"] }
 serde_json = { version = "1.0.140", default-features = false }
 serde_yaml = { version = "0.9.34", default-features = false }
